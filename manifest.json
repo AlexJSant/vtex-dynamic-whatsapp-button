@@ -1,0 +1,24 @@
+{
+  "vendor": "sunhouse",
+  "name": "whatsapp-dynamic-btn",
+  "version": "1.0.0",
+  "title": "WhatsApp Dynamic Button",
+  "description": "WhatsApp Dynamic Button - For product page and others. Dynamic capture product data for fetch the WhatsApp message information.",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x",
+    "store": "0.x",
+    "styles": "2.x"
+  },
+  "dependencies": {
+    "vtex.store-components": "3.x",
+    "vtex.product-context": "0.x",
+    "vtex.css-handles": "0.x"
+  },
+  "registries": [
+    "smartcheckout"
+  ],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
