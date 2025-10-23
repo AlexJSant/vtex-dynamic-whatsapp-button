@@ -1,4 +1,4 @@
-# WhatsApp Dynamic Button
+# VTEX Dynamic WhatsApp Button
 
 A VTEX IO app that creates a dynamic WhatsApp button for product pages. The button automatically captures product information and includes it in the WhatsApp message, with optional collection name support.
 
